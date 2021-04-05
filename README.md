@@ -19,12 +19,11 @@
 The Employee Directory is a React app that takes a list of employees / users retrieved from a random user generator api and displays them in a table. The names can be sorted in alphabetical order by clicking "Name" at the top. 
 
 
-The table can also be filtered by name by typing in the input at the top. It filters in real-time with no need to submit.
+You can sort by name alphabetically or type the first letter of the employee name.  
+![Emp-Directory](https://user-images.githubusercontent.com/65749636/113541099-652ccd00-9596-11eb-8450-4b9b13dffb63.gif)
 
 
-https://user-images.githubusercontent.com/65749636/113540335-ca7fbe80-9594-11eb-8954-55d4490894b6.mp4
-
-
+![image](https://user-images.githubusercontent.com/65749636/113539575-eda96e80-9592-11eb-934a-8ad484029eae.png)
 
 ## Installation
 
@@ -52,4 +51,4 @@ Email: elphinhote@yahoo.com
 
 Github Repo: https://github.com/elphinhote/employee-directory
 
-![image](https://user-images.githubusercontent.com/65749636/113539575-eda96e80-9592-11eb-934a-8ad484029eae.png)
+
