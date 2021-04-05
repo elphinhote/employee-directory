@@ -3,7 +3,6 @@
 
 ## Table of Contents
 * [Description](#description)
-* [User Story](#user-story)
 * [Installation](#installation)
 * [Tech](#tech)
 * [License](#license)
@@ -38,6 +37,8 @@ Install,
 * NodeJS
 * Random User API 
 * Bootstrap
+
+[![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](#license) 
 
 ## Questions
 
