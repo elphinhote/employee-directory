@@ -38,6 +38,8 @@ Install,
 * Random User API 
 * Bootstrap
 
+## License
+
 [![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](#license) 
 
 ## Questions
