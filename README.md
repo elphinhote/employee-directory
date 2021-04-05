@@ -22,7 +22,7 @@ You can sort by name alphabetically or type the first letter of the employee nam
 ![image](https://user-images.githubusercontent.com/65749636/113539575-eda96e80-9592-11eb-934a-8ad484029eae.png)
 
 ## Installation
-Clone or dowload the repo, 
+Clone or download the repo, 
 
 Install,
 ` npx create-react-app ` 
