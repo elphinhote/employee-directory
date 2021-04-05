@@ -1,14 +1,8 @@
 # employee-directory
-# Project WORM
+
 
 [![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](#license) 
 ![issues](https://img.shields.io/github/issues/alexbachicha/WORM)
-
-* [Pirooz Wallace](https://github.com/attack-theoRy)
-
-[Deployed GitHub Pages App](https://attack-theory.github.io/employee-directory/)
-
-
 
 
 ## Table of Contents
@@ -22,13 +16,14 @@
 
 ## Description
 
-Employee Directory is a React app that takes a list of employees / users retrieved from a random user generator api and displays them in a table. The names can be sorted in alphabetical order by clicking "Name" at the top. 
-![Table of Employees](SampleScreen.png)
+The Employee Directory is a React app that takes a list of employees / users retrieved from a random user generator api and displays them in a table. The names can be sorted in alphabetical order by clicking "Name" at the top. 
+
 
 The table can also be filtered by name by typing in the input at the top. It filters in real-time with no need to submit.
 
 
-![Sample Filter](SampleScreen2.png)
+https://user-images.githubusercontent.com/65749636/113540335-ca7fbe80-9594-11eb-8954-55d4490894b6.mp4
+
 
 
 ## Installation
