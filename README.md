@@ -7,7 +7,7 @@
 * [Tech](#tech)
 * [License](#license)
 * [Questions](#Questions)
-* [Credits](#Credits)
+
 
 ## Description
 
